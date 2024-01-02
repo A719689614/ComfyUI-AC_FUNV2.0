@@ -1,26 +1,4 @@
 import glob
-import nodes
-import pygame
-
-"""
-
-
-    Simple utility custom nodes for ComfyUI regarding experimentation with SDXL
-    
-    By Jens Jakob Kramhøft
-
-    Copyright (c) 2023  
-
-"""
-
-MANIFEST = {
-    "name": "AC_Testing",
-    "version": (0,1,1),
-    "author": "Jens Jakob Kramhøft",
-    "project": "https://github.com/jjkramhoeft/util-nodes-for-comfyui",
-    "description": "A small node suite for ComfyUI",
-}
-
 
 # 定义全局变量
 Maxresolution = 99999999999999999
@@ -36,8 +14,6 @@ class Promptlist_index:
             "tips": ("STRING", {
                     "multiline": False, 
                     "default": '读取你的模板列表'}),
-                    
-         
         }}
     # 返回结果类型
     RETURN_TYPES = ('STRING',)
@@ -278,10 +254,40 @@ class Solution_list:
         str = Resolution_List
         list = str.split('*')
         height,width = list[0],list[1]
+        height,width = int(height),int(width)
         new_str =f"{height},{width}"
         return (height,width,new_str) 
 
+# ==============================================================
+mode = {"read":"r","write":"w","append":"a"}
+class AC_FUN_Prompt_Save:
+    @classmethod
+    def INPUT_TYPES(s):
+        return {
+            "required": {
+            "filename":("STRING",),
+            "tips": ("STRING", {
+                    "multiline": True, 
+                    "default": '输入提示词保存成模板'}),
+                    
+         
+        }}
+    # 返回结果类型
+    RETURN_TYPES = ('STRING',)
+    
+    # 返回节点命名
+    RETURN_NAMES = ('STRING',)
+    FUNCTION = "promptmodel" 
+    CATEGORY = "AC_FUNV2.0" 
 
+    def promptmodel(self,filename,tips=None):
+        file_paths = ".\ComfyUI\custom_nodes\ComfyUI-By-AC_FUNV2.0\TagModel"+f"{filename}"+".txt"
+        f = open(file_paths,'w',encoding='utf-8')
+        result = f.write(tips)
+        f.close()
+        # 打开txt文件 
+        return (result,)   
+# ==============================================================
 
 
 
