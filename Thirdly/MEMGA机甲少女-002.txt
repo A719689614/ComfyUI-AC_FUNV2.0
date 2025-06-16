@@ -1,0 +1,1 @@
+Paper mache representation of 1girl,mecha,full_shot,(best quality, 8k, High resolution, Highly detailed, very attractive),<lora:JACG1.0:1>, . 3D, sculptural, textured, handmade, vibrant, fun

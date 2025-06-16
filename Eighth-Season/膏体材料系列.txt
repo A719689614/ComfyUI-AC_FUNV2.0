@@ -1,0 +1,1 @@
+liuti,Clear grain,Large area,multiline,Highlights,emulsion,wavy,spread,pure,freshness,soft,mobility,smooth,gloss,smooth,<lora:liuti-000008:0.6>,High detail,masterpiece,HD,high quality,

@@ -1,0 +1,1 @@
+high quality,<lora:gradient glass-xl-v1.0:0.8>,gradient,glass,no humans,simple background,close up,shiny,

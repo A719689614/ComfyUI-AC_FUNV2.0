@@ -1,0 +1,3 @@
+1girl\(solo,black long hair,(short skirt,Two piece fashionable outfit):1.3,jewelry,earrings,hair ornament,high ponytail,straight hair,swept bangs,necklace,realistic,male focus,look at viewer,(outdoor,upper body):1.5\),
+wh,Background\(B and B architecture,luxury hotel,potted plants,rattan chairs,(snowflakes,snow-capped mountain):1.2,grassland,sky,forest,lake:1.3\),
+masterpiece,best quality,unreal engine 5 rendering,movie light,movie lens,movie special effects,detailed details,HDR,UHD,8K,CG wallpaper

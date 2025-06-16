@@ -1,0 +1,4 @@
+1girl,  <lora:汉服V01:0.8>masterpiece,best quality,official art,extremely detailed CG unity 8k wallpaper,realistic,light rays,light particles,
+1girl,brown_hair,solo,long hair,earrings,jewelry,brown_eyes,lips,chinese_clothes,necklace,hair_ornament,see-through,
+blue theme,scenery,reflection,outdoors,lotus leaf,(lotus:1.3),lake water,blue sky,white cloud,
+dynamic pose,looking at viewer

@@ -1,0 +1,5 @@
+(a girl with a dragon):1.8
+a girl\(delicate face,plump figure,cleavage,(flowing black long hair):1.3,(petals falling in the air:1.3),(leaning against the body of a chinese dragon):1.8\)
+a dragon\((Chinese dragon,(white body):1.2,(black claws):1.2),(red scales):1.2,(golden horns):1.5,(swinging body up):1.3)\):0.5),
+Background\(shanshui,(Snowy Mountains):1.3,Streams,Waterfalls,Pine Trees\),
+masterpiece,best quality,unreal engine 5 rendering,movie light,movie lens,movie special effects,detailed details,HDR,UHD,8K,CG wallpaper

@@ -1,0 +1,1 @@
+bottle,day,ocean,Without humans,still life,water,gradient,pouring,<lora:poshui:0.8>,, best quality,High Quality,realistic,RAW photo,masterpiece,8k,insane details,High detail,hyperdetailed,Lighting,Master Lighting,film grain,

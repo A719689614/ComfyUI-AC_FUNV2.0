@@ -1,0 +1,6 @@
+best quality,masterpiece,realistic,Highly detailed,ultra-fine painting,extreme detail description,Vivid Colors,huge_filesize,wallpaper,official art,extremely detailed CG unity 8k wallpaper,absurdres,1girl,solo,a charming face,long hair,white skirt,hair_ornament,necklace,there is a blue flame mark between the eyebrows,light_eyes,(soft moonlight:1.3),(moon:1.3),wonderland,flower,beautiful background,brilliant colors,upper_body,(night:1.3),
+masterpiece,best quality,official art,extremely detailed CG unity 8k wallpaper,
+((negative_hand)), (((easynegative))), (((exquisite facial features))), (((light from the sky))),bubble, floating hair,(nude:1),(((gorgeous high heels))),
+(((8k, RAW photo, best quality, masterpiece:1.2))), (((lace underwear))), ((sexy pajamas)), (((gentle light))),
+(((baby face))), delicate makeup earrings,jewelry,closed mouth,(((huge breast))), (((lace)-trimmed bra),
+ ng_deepnegative_v1_75t, easynegative, negative_hand,collarbone,red lips,

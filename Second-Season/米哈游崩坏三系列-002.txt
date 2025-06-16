@@ -1,0 +1,3 @@
+simple_black_background, black and white theme, Sense of coordination, sense of order, mathematics beauty, (((cover design))), (((((cover art))))), ((trim)), album_art, official art, (Master's work), 
+<lora:zhenli-v100:0.8:lbw=OUTALL>, zhenli, 1girl, gloves, bronya zaychik, jewelry, grey hair, earrings, elbow gloves, white thighhighs, dress, bare shoulders, bangs, grey eyes, long hair, 
+chessboard, chess, white geometry, black geometry, reflection, crystal_art, pattern_design, creative, Mystery pattern, black crystal decorate, black crystal, (architectural art), ((geometric art)), pattern design, creative, 

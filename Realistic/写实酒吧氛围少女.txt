@@ -1,0 +1,1 @@
+sdmai, fanhua, 1girl, solo, long hair, looking at viewer, realistic, blurry, bottle, lips, depth of field, alcohol, parted lips, brown hair, bokeh, black hair <lora:SDMAI fanhua:0.8>

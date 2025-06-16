@@ -1,0 +1,1 @@
+(best quality:1.2),<lora:Mechanical Neon-v1.0:0.8>,no humans,science fiction,neon lights,machine,still life,green theme,

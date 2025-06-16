@@ -1,0 +1,3 @@
+1 girl\(solo,appearance(angular features,beautiful,big eyes,asian,black long hair),clothing\(qipao,dark blue dress,patterns\(prints,traditional Chinese patterns,peonies,roses,lotus,plum blossoms\),made of silk fabric,fit well, cut appropriately,elegant,generous),(standing next to a red car):1.5, on the street of cyber city,lingering light of the setting sun,the figure behind him,(look at viewer,floating hair,outdoor,full body):1.5,
+Background\(sunset,snow,cyber city,sunshine,cloud,sky\),
+masterpiece,best quality,unreal engine 5 rendering,movie light,movie lens,movie special effects,detailed details,HDR,UHD,8K,CG wallpaper

@@ -1,0 +1,11 @@
+"0" : " (Masterpiece, best quality:1.2),1girl,black hair",
+"40" : "(Masterpiece, best quality:1.2),1girl,pink long hair",
+"72" : "(Masterpiece, best quality:1.2),1girl,clad in a green Victorian gown",
+"104" : "(Masterpiece, best quality:1.2),1girl,short hair with wavy bob",
+"136" : "(Masterpiece, best quality:1.2),1girl,Wearing a pink summer dress",
+"168" : "(Masterpiece, best quality:1.2),1girl,Orange long hair cascading",
+"200" : "(Masterpiece, best quality:1.2),1girl,purple long hair cascading",
+"232" : "(Masterpiece, best quality:1.2),1girl,Early 20th Century Broadway Style",
+"264" : "(Masterpiece, best quality:1.2),1girl,short wavy bob",
+"296" : "(Masterpiece, best quality:1.2),1girl,Disco Moment",
+"328" : "(Masterpiece, best quality:1.2),1girl,silver long hair"

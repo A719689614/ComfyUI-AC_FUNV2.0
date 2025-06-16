@@ -1,0 +1,4 @@
+simple_black_background, black and white theme, Sense of coordination, sense of order, mathematics beauty, (((cover design))), (((((cover art))))), ((trim)), album_art, official art, (Master's work), 
+1girl, full body, 
+<lora:sgeleixiu-v100-000026:0.8:lbw=OUTALL>, gelei, 1girl, white dress, hat, blue hair, purple eyes, barefoot, little girl, 9 years old, 
+chessboard, chess, white geometry, black geometry, reflection, crystal_art, pattern_design, creative, Mystery pattern, black crystal decorate, black crystal, (architectural art), ((geometric art)), pattern design, creative, 

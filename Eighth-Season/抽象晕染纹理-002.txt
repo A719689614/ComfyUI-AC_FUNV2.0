@@ -1,0 +1,1 @@
+abstract\(style\), Abstract fluid art in blue and orange colors, with black veins, creates an organic pattern resembling the texture of lava flowing down mountains in Hawaii. Hyperrealistic and highly detailed with vibrant colors and sharp focus, cinematic lighting in the style of Michael Whelan's digital painting,<lora:abstractv1.0-000008:0.8>,

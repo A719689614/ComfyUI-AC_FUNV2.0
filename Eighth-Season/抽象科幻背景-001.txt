@@ -1,0 +1,1 @@
+kv,((mountain)),((Red and blue)),kv,no humans,scenery,(molten rock),red background,mountain,<lora:KV graphic design:0.6>,abstract,masterpiece,take a photograph,

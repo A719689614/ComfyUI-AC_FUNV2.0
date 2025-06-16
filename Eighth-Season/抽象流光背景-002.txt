@@ -1,0 +1,1 @@
+no humans, orange theme, blue line, red line, perspective, elliptical, sun, space, glowing, planet masterpiece,best quality,<lora:hjyabs--000009:0.8>,Negative prompt: Deep Negative V1.x,EasyNegative

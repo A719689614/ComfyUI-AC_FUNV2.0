@@ -1,0 +1,6 @@
+robotic girl, (masterpiece,top quality,best quality,official art,beautiful and aesthetic:1.2),
+neon lights,science fiction,
+A shot with tension,(Visual impact,giving the poster a dynamic and visually striking appearance:1.2),Chinese Zen style,impactful picture
+Negative prompt: (masterpiece,top quality,best quality,official art,beautiful and aesthetic:1.2),
+neon lights,science fiction,
+A shot with tension,(Visual impact,giving the poster a dynamic and visually striking appearance:1.2),Chinese Zen style,impactful picture,

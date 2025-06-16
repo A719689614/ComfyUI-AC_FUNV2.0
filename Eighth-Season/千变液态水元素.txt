@@ -1,0 +1,1 @@
+shuiyuansu,no humans,blue theme,water,still life,simple background,realistic,<lora:shuiyuansu-000009:0.7>,<lora:渐变半透明玻璃熔体___Style_V1.0:0.8>,

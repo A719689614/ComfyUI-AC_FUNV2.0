@@ -1,0 +1,1 @@
+sharp focus,cinematic lighting,octane render,unreal engine,volumetrics dtx,(film grain, bokeh),Minimalist,skin care products,quiet stage focus,a single product stage placed in the middle,digital environment,Octane rendering,mixer,studio lighting,reflection,no humans,flower,pink flower,petals,mirror,artist name,scenery,perfume in the middle,<lora:dianshan:0.7>,<lora:hufu:0.7>,

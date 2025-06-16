@@ -1,0 +1,1 @@
+transparent,no humans,blue background,gradient,gradient background,<lora:liuti:1>,

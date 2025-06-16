@@ -1,0 +1,2 @@
+officialart,unity8kwallpaper,ultradetailed,beautifulandaesthetic,beautiful,masterpiece,bestquality,(zentangle,mandala,tangle,entangle),ecstasyofflower:1.2)dynamicangle,cowboyshot,themostbeautifulformofchaos,elegant,abrutalistdesigned,vividcolours,romanticism,atmospheric,1girl,((masterpiece)),((high quality)),(((Extreme details))),illustration,landscape,solo,fullbody,beautiful detailedeyes,fluttering hair,earring,(larger breasts:1.3),colorfulclothes,(ulzzang:0.9) ...,,full body,,
+ <lora:guofeng:1>

@@ -1,0 +1,4 @@
+1 girl,hanfu 
+hands_, realistic,
+1girl, solo, candle, hair ornament, realistic, jewelry, long hair, flower, hair flower, black hair, necklace, looking at viewer, indoors, chinese clothes, sash, earrings, kimono, black eyes, blurry, sitting,off-the-shoulder
+cinematic_lighting, 

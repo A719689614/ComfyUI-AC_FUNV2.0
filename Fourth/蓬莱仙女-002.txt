@@ -1,0 +1,2 @@
+1girl,
+Best quality,masterpiece,ultra high res,<lora:哩布独享-蓬莱仙女_V1:0.7>,<lora:GoodHands-beta2:1>,<lora:哩布独享-娘娘的快乐_夫君快来呀:0.4>, theatrical, limited, marvelous, magnificent, delicate, impressive, wonderful, cool, charming, pretty, striking, coherent, lovely, detailed, color, fine detail, stunning, gorgeous, intricate, outstanding, dramatic, breathtaking, artistic, beautiful, pure

@@ -1,0 +1,2 @@
+1girl, solo, black hair, long hair, blue background, realistic, parted lips, looking at viewer, simple background, lips, bare shoulders, brown eyes, upper body, teeth, dress, collarbone
+<lora:face model-1:0.8>,

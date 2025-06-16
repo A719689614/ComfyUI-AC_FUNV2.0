@@ -1,0 +1,1 @@
+Bottle,simple background,liquid,clear water,pouring,clean background,cosmetics,skincare,blue-green,Light colored,clean,<lora: cosmetics-water series:0.6>,

@@ -1,0 +1,3 @@
+dofas,1girl\(android,Eyes\(Deep amber,crystal clear,long and delicate eyelashes\),Nose\(Elevated,with a slightly upturned nose tip\),(The body is composed of unfinished wires and circuit boards,and the proportion of the local body is not coordinated,The body is connected to the cable,Standing,look at viewer,floating hair,outdoor,full body):1.3\),
+background\((night,star sky,full moon):1.5,Chinese style architecture,Road,Green Tree,Pavilion\),
+masterpiece,best quality,unreal engine 5 rendering,bright lighting,fine lighting,depth of field,movie light,movie lens,movie special effects,detailed details,HDR,UHD,8K,CG wallpaper

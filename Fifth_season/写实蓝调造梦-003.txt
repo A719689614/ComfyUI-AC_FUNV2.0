@@ -1,0 +1,3 @@
+sdmai, lanmeng, 1girl, solo, jewelry, earrings, hat, thighhighs, brown hair, skirt, long hair, realistic, brown eyes, parted lips, lips, jacket, brown jacket, belt, bracelet, looking at viewer
+Pink coral,shell,coral hair accessories,pink atmosphere,
+<lora:SDMAI蓝梦lanmeng:0.8>,

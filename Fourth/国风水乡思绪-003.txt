@@ -1,0 +1,3 @@
+traditional chinese landscape，masterpiece, best quality, 32k uhd, insane details, intricate details, hyperdetailed, hyper quality, high detail, ultra detailed, Masterpiece,
+1girl,
+<lora:traditional chinese landscape_20231205103257:0.8>

@@ -1,0 +1,1 @@
+solo, splash paint, colorful, pokemon \(creature\),abstract, wings, colored skin, dress, no humans masterpiece,best quality,<lora:hjyabs--000009:0.8>,Negative prompt: Deep Negative V1.x,EasyNegative

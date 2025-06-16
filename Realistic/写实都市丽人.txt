@@ -1,0 +1,1 @@
+1girl,pretty,(realistic, photo-realistic:1.4),clean,masterpiece,finely detail,ultra-detailed,highres,(best illustration),(best shadow),street,shop,business street,walk,fashion,model,street snap,jewels,tide,sexy,Blurred background,<lora:FilmGirl VELVIA2:0.6>,

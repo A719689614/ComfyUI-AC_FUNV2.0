@@ -1,0 +1,1 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2),(8k, best quality, masterpiece:1.2),no humans,   <lora:CGproduct asw_20230713123544:0.95>,CGproduct asw, no humans, still life, bubble, bottle, simple background, liquid, shiny, particle

@@ -1,0 +1,1 @@
+lianchou,no humans,simple background,shiny,pink background,<lora:nianchouliaoti-000007:0.5>,High detail,masterpiece,HD,high quality,

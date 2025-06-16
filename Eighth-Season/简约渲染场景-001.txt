@@ -1,0 +1,1 @@
+CADS, SETTING_POSTER, 3D E-commerce scene,grey Mountains,golden,Product Exhibition stage, Photographic light,<lora:AiARTiST_Productstage_Designer_pruned:0.9>

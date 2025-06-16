@@ -1,0 +1,6 @@
+simple_white_background, golden and white theme, Sense of coordination, sense of order, mathematics beauty, (((cover design))), (((((cover art))))), ((trim)), album_art, official art, (Master's work), full body, ( closeup, 1girl,solo:1.2), 
+<lora:dagelei-v100:0.8:lbw=OUTALL>, dglx, 1girl, gloves, purple eyes, blue hair, dress, white dress, large breasts, cleavage, 
+1girl, solo, parted lips, looking at viewer, floating hair, long hair, portrait, bangs, collarbone, scenery, 
+<lora:AkramBham:0.7>, 
+cloud, sky, leaf, star patterns, white geometry, colorful geometry, reflection, crystal_art, pattern_design, creative, Mystery pattern, colorful crystal decorate, blue crystal, (architectural art), ((geometric art)), pattern design, creative, shine, dream, 
+fly in sky, swim in cloud, on top of earth (planet), 

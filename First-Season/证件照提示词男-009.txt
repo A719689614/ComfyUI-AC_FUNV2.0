@@ -1,0 +1,1 @@
+<lora:证件照identification photo_v3.0:1> ,identification photo,1 max,long hair,bangs,looking at viewer,(white shirt,blue tie,white background:1.3), (PureErosFace_V1:0.8),(ulzzang-6500:0.3), (black lipstick:0.8), (detailed pupils:1.3),(aegyo sal:1), ((puffy eyes)),

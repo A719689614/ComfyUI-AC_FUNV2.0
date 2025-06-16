@@ -1,0 +1,2 @@
+class AC_CATEGORY:
+    CATEGORY = "♑AC_FUNV2.0"

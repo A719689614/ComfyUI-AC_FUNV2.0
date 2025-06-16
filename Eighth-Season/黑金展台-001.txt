@@ -1,0 +1,1 @@
+heijinzhantai,no humans,scenery,reflection,still life,light particles,light,<lora:heijinzhantai_XL:0.95>,

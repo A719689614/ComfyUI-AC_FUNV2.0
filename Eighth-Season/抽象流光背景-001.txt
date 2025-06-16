@@ -1,0 +1,1 @@
+orange theme, gold liquid, yellow theme, black background, no humans, solo, light particles, from side, glowing, bubble masterpiece,best quality,<lora:hjyabs--000009:0.8>,Negative prompt: Deep Negative V1.x,EasyNegative

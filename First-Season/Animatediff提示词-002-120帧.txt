@@ -1,0 +1,4 @@
+"0" : " (Masterpiece, best quality:1.2),1girl,black hair",
+"40" : "(Masterpiece, best quality:1.2),1girl,pink long hair",
+"72" : "(Masterpiece, best quality:1.2),1girl,clad in a green Victorian gown",
+"120" : "(Masterpiece, best quality:1.2),1girl,short hair with wavy bob",

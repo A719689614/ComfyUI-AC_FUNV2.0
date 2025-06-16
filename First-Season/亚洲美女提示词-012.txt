@@ -1,0 +1,1 @@
+(masterpiece:1.2), (realistic, photo-realistic), (1girl), detailed face, long hair,(full body:1.2), white wings BREAK gorgeous dress,right hand, five fingers,<lora:zipai:0.6> ,<lora:cuteGirlMix4_v10:0.5>, <lora:fashionGirl_v50:0.2>,

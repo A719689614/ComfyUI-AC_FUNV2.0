@@ -1,0 +1,1 @@
+best quality,HDR,UHD,8K,Vivid Colors,solo,medium-shot,(1girl:1.5),(sitting:1.3),from front,soft light,(looking at viewer:1.6),Elegant,detailed gorgeous face,<lora:add_detail:0.5>,(bathtub background:1.1),upper body,rainbow,sky,<lora:rc_20240129110316:0.8>,rc,naked apron,maid headdress,

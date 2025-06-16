@@ -1,0 +1,7 @@
+8k, best quality, masterpiece, (ultra-detailed:1.1), (high detailed skin), 
+(full body:1.2), white background, standing, looking at viewer, (solo:1.4), hand on hip, 
+<lora:dagelei-v100:0.8:lbw=OUTALL>, dglx, 1girl, gloves, purple eyes, blue hair, white dress, 
+(white background, simple background:1.5), 
+(beautiful_face), ((intricate_detail)), clear face, 
+((finely_detailed)), fine_fabric_emphasis, 
+((glossy)), full_shot

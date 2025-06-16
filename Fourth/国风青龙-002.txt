@@ -1,0 +1,2 @@
+Best quality,masterpiece,(ultra high res:1.1),1girl,real water,(ripples:1.2),Chinese green dragon,gentle Chinese dragon,character design,staring at you,(petal:1.3),
+<lora:龙贺新春·中国小青龙Lora_小青龙V_1.0:0.7>,smile,full body,<lora:20231207-1701883134534-0010:0.8>, Best quality,masterpiece,ultra high res,(photorealistic:1.4),

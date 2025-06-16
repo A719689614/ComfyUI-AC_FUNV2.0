@@ -1,0 +1,2 @@
+1girl,
+Best quality,masterpiece,ultra high res,<lora:哩布独享-蓬莱仙女_V1:0.7>,<lora:GoodHands-beta2:1>, excellent composition, cinematic atmosphere, dynamic dramatic ambient light, detailed, coherent, aesthetic

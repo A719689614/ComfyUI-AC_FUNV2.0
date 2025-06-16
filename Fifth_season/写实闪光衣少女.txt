@@ -1,0 +1,3 @@
+gloomingdress,1girl\(Eyes\(Deep amber,closed eyes,crystal clear,long and delicate eyelashes\),Nose\(Elevated,a slightly upturned nose tip\),Lips\(Rosy color,defined lip line\),Hairstyle\(Black hair,smooth and shiny,slightly wavy at the ends\),Skin\(Fair,blemish-free,as delicate as porcelain\),Clothing\((pink long dress,gorgeous,see-through,light particles,skirt hold,):1.5,walking,wading,(look at viewer,floating hair,outdoor,full body):1.53\),depth of field
+Background\((deep night,full moon,bug,glowing butterfly,grassland,forest,lake):1.5,sky\),
+masterpiece,best quality,unreal engine 5 rendering,movie light,movie lens,movie special effects,detailed details,HDR,UHD,8K,CG wallpaper

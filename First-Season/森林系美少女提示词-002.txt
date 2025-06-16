@@ -1,0 +1,5 @@
+Rose, Blue Sky, Aircraft, Super Detail, 8K, Street, Pedestrian, sitting, sexy pose,
+,Electronic_dance_skirt,dress,bare shoulders,gloves,thighhighs,
+(Cowboy Hot: 1.2),
+1 girl, very long hair, edge light, absurd, (Autumn Maple Forest: 1.3), with few fallen leaves, (Path), Flower Sea, large breasts, (nsfw:0.5),(cleavage :0.1),
+<lora:小怡同学:0.5> <lora:Add More Details - Detail Enhancer _ Tweaker (细节调整) LoRA_v1.0:1> <lora:Cute电子舞裙_电子舞裙服装:0.55>
