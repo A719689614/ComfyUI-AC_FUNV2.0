@@ -26,7 +26,7 @@ class TextTranslate(AC_CATEGORY):
     def make_md5(self,s, encoding='utf-8'):
         return md5(s.encode(encoding)).hexdigest()
 
-    def text_translation(self, text,translate_from,translate_to, APIID='20250517002359356', APIKEY="HMAxM6QBzWFHG4sAzuOQ"):
+    def text_translation(self, text,translate_from,translate_to, APIID, APIKEY):
         query = text
         appid = APIID
         appkey = APIKEY
