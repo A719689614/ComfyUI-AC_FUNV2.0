@@ -18,7 +18,7 @@ for file in os.listdir(file_path):
         txt_files.append(file)
 
 
-class AC_FUN_Sixth:
+class AC_FUN_Sixth(AC_CATEGORY):
     @classmethod
     def INPUT_TYPES(s):
         return {
