@@ -6,7 +6,7 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 # print(script_dir)
 # print('================================================')
 # 给定的绝对路径
-absolute_path = ('Realistic')
+absolute_path = ('Season Nine Flux')
 
 # 获取相对路径
 file_path = os.path.join(script_dir,absolute_path)
@@ -17,13 +17,16 @@ for file in os.listdir(file_path):
     if file.endswith(".txt"):
         txt_files.append(file)
 
+# print(txt_files)
 
-class AC_FUN_Sixth(AC_CATEGORY):
+
+
+class AC_FUN_Nine(AC_CATEGORY):
     @classmethod
     def INPUT_TYPES(s):
         return {
             "required": {
-            "ModeList":(txt_files,),        
+            "ModeList":(txt_files,),
         }}
     # 返回结果类型
     RETURN_TYPES = ('STRING',)
@@ -31,6 +34,7 @@ class AC_FUN_Sixth(AC_CATEGORY):
     # 返回节点命名
     RETURN_NAMES = ('STRING',)
     FUNCTION = "promptlist_index" 
+
     def promptlist_index(self,ModeList):
         new_path = os.path.join(file_path,ModeList)
         f = open(new_path,'r',encoding='utf-8')

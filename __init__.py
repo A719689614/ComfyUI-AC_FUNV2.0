@@ -12,6 +12,7 @@ from .Fifth_Season import AC_FUN_Fifth
 from .Sixth_Season import AC_FUN_Sixth
 from .Seven_Season import AC_FUN_Seven
 from .Eight_Season import AC_FUN_Eighth
+from .Nine_Season import AC_FUN_Nine
 from .translate import TextTranslate
 
 NODE_CLASS_MAPPINGS = {
@@ -40,6 +41,7 @@ NODE_CLASS_MAPPINGS = {
     "AC_Sixth_Season提示词":AC_FUN_Sixth,
     "AC_Seven_Season提示词":AC_FUN_Seven,
     "AC_Eighth_Season提示词":AC_FUN_Eighth,
+    "AC_Nine_Season提示词[Flux]":AC_FUN_Nine,
     
 
 }

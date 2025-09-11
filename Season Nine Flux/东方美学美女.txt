@@ -1,0 +1,1 @@
+1girl,hat,solo,glasses,gloves,pink hair,smile,looking at viewer,blue eyes,long hair,green eyes,red headwear,wagnaria_uniform,<lora: thick lip doll 512:0.7>,photography,super realistic,dynamic,exquisite (photography:1.3),((best quality)),((masterpiece, HDR))-detailed,

@@ -1,0 +1,1 @@
+woman,moyou, solo, brown hair, brown eyes, looking at viewer, long hair, black background, simple background, upper body, lips, sleeveless, bangs, from side, shirt, nose, Beautiful Chinese Women, She has exquisite facial features and delicate skin, Rich and realistic skin texture <lora:add_detail:0.6> <lora:网红脸3:0.7>
