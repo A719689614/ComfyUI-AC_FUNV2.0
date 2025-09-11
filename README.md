@@ -6,9 +6,13 @@ ComfyUIV2提示词工具箱
 
 # 安装方法
 1.找到你的comfyui根目录，进入custom_nodes文件夹，在文件管理器的地址栏输入cmd，在弹出的终端框框里输入:git clone + 仓库地址进行克隆即可
+
 2.无特殊依赖一般不会造成使用冲突
+
 3.百度翻译需自己申请api进行翻译服务
+
 4.可以自定义在每个提示词的根目录下保存自己需要的提示词文件，默认txt格式的文件
+
 
 # 二、功能预览
 <img width="1200" height="1200" alt="QQ截图20250911165854" src="https://github.com/user-attachments/assets/6526dd38-fce4-4ab6-bc6e-bed8a6b1cc65" />
