@@ -1,0 +1,102 @@
+{
+  "id": "6c0b514a-ece9-4eb2-98a6-e4f467d2e220",
+  "revision": 0,
+  "last_node_id": 10,
+  "last_link_id": 4,
+  "nodes": [
+    {
+      "id": 9,
+      "type": "AC_Negative_prompt提示词",
+      "pos": [
+        849.5682983398438,
+        80.93775939941406
+      ],
+      "size": [
+        579.2130737304688,
+        213.6156463623047
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "label": "STRING",
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            4
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "AC_Negative_prompt提示词"
+      },
+      "widgets_values": [
+        "室内反向提示词-001.txt"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "Panel面板",
+      "pos": [
+        1495.072265625,
+        75.93324279785156
+      ],
+      "size": [
+        679.0751953125,
+        311.7475280761719
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "text",
+          "name": "text",
+          "type": "STRING",
+          "link": 4
+        }
+      ],
+      "outputs": [
+        {
+          "label": "STRING",
+          "name": "STRING",
+          "shape": 6,
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Panel面板"
+      },
+      "widgets_values": [
+        "(worst quality:2),(low quality:2),(normal quality:2),lowres,watermark,ng_deepnegative_v1_75t EasyNegative badhandv4,",
+        "blurry,low quality,bad anatomy,sketches,lowres,normal quality,worstquality,signature,watermark,cropped,bad proportions,out of focus, (worst quality, low quality:1.4),monochrome,zombie,(interlocked fingers),(worst quality, low quality:2),monochrome,zombie,overexposure,watermark,text,bad anatomy,bad hand,extra hands,extra fingers,(extra digit and hands and fingers and legs and arms:1.4),(deformed fingers:1.2),(long fingers:1.2),(bad-artist-anime),extra legs,lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username"
+      ]
+    }
+  ],
+  "links": [
+    [
+      4,
+      9,
+      0,
+      10,
+      0,
+      "STRING"
+    ]
+  ],
+  "groups": [],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 1.0610764609500016,
+      "offset": [
+        -612.1952471027546,
+        159.11111905389495
+      ]
+    },
+    "frontendVersion": "1.25.10"
+  },
+  "version": 0.4
+}

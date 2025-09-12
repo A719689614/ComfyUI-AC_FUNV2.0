@@ -1,0 +1,212 @@
+{
+  "id": "938a9e26-aaab-4983-9db4-7e2615092a1e",
+  "revision": 0,
+  "last_node_id": 24,
+  "last_link_id": 43,
+  "nodes": [
+    {
+      "id": 21,
+      "type": "Image_图像像素尺寸",
+      "pos": [
+        860.1243896484375,
+        109.39067840576172
+      ],
+      "size": [
+        284.62359619140625,
+        89.61701965332031
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "image",
+          "name": "image",
+          "type": "IMAGE",
+          "link": 41
+        }
+      ],
+      "outputs": [
+        {
+          "label": "width",
+          "name": "width",
+          "type": "INT",
+          "links": [
+            42
+          ]
+        },
+        {
+          "label": "height",
+          "name": "height",
+          "type": "INT",
+          "links": [
+            43
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Image_图像像素尺寸"
+      }
+    },
+    {
+      "id": 23,
+      "type": "easy showAnything",
+      "pos": [
+        1186.92578125,
+        109.80516815185547
+      ],
+      "size": [
+        305.4048767089844,
+        82.64547729492188
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "anything",
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 42
+        }
+      ],
+      "outputs": [
+        {
+          "label": "output",
+          "name": "output",
+          "type": "*",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "1.2.9",
+        "Node name for S&R": "easy showAnything"
+      },
+      "widgets_values": [
+        "1024"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "LoadImage",
+      "pos": [
+        547.9358520507812,
+        109.33537292480469
+      ],
+      "size": [
+        275.9493408203125,
+        437.9969482421875
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "label": "IMAGE",
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            41
+          ]
+        },
+        {
+          "label": "MASK",
+          "name": "MASK",
+          "type": "MASK",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.52",
+        "Node name for S&R": "LoadImage"
+      },
+      "widgets_values": [
+        "01.png",
+        "image"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "easy showAnything",
+      "pos": [
+        1191.9814453125,
+        244.99185180664062
+      ],
+      "size": [
+        302.685791015625,
+        95.90052795410156
+      ],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "anything",
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 43
+        }
+      ],
+      "outputs": [
+        {
+          "label": "output",
+          "name": "output",
+          "type": "*",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "1.2.9",
+        "Node name for S&R": "easy showAnything"
+      },
+      "widgets_values": [
+        "1536"
+      ]
+    }
+  ],
+  "links": [
+    [
+      41,
+      22,
+      0,
+      21,
+      0,
+      "IMAGE"
+    ],
+    [
+      42,
+      21,
+      0,
+      23,
+      0,
+      "*"
+    ],
+    [
+      43,
+      21,
+      1,
+      24,
+      0,
+      "*"
+    ]
+  ],
+  "groups": [],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 1.0610764609500023,
+      "offset": [
+        -173.39796684942783,
+        87.34954430824092
+      ]
+    },
+    "frontendVersion": "1.25.10"
+  },
+  "version": 0.4
+}

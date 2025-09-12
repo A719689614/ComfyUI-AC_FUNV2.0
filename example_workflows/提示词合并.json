@@ -1,0 +1,193 @@
+{
+  "id": "938a9e26-aaab-4983-9db4-7e2615092a1e",
+  "revision": 0,
+  "last_node_id": 31,
+  "last_link_id": 47,
+  "nodes": [
+    {
+      "id": 25,
+      "type": "AC_词汇合并",
+      "pos": [
+        1073.615966796875,
+        94.84964752197266
+      ],
+      "size": [
+        326.4316711425781,
+        96.03494262695312
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "Prompt_1",
+          "name": "Prompt_1",
+          "type": "STRING",
+          "link": 45
+        },
+        {
+          "label": "Prompt_2",
+          "name": "Prompt_2",
+          "type": "STRING",
+          "link": 47
+        }
+      ],
+      "outputs": [
+        {
+          "label": "Prompt",
+          "name": "Prompt",
+          "type": "STRING",
+          "links": [
+            46
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "AC_词汇合并"
+      }
+    },
+    {
+      "id": 26,
+      "type": "AC_First_Season提示词",
+      "pos": [
+        691.1632690429688,
+        94.88396453857422
+      ],
+      "size": [
+        270,
+        58
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "label": "STRING",
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            45
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "AC_First_Season提示词"
+      },
+      "widgets_values": [
+        "2.8D美女提示词-028.txt"
+      ]
+    },
+    {
+      "id": 31,
+      "type": "AC_Fourth_Season提示词",
+      "pos": [
+        692.1143798828125,
+        214.83013916015625
+      ],
+      "size": [
+        270,
+        58
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "label": "STRING",
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            47
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "AC_Fourth_Season提示词"
+      },
+      "widgets_values": [
+        "中国戏曲系列-001.txt"
+      ]
+    },
+    {
+      "id": 28,
+      "type": "easy showAnything",
+      "pos": [
+        1441.811767578125,
+        94.510009765625
+      ],
+      "size": [
+        497.0364990234375,
+        293.30999755859375
+      ],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "anything",
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 46
+        }
+      ],
+      "outputs": [
+        {
+          "label": "output",
+          "name": "output",
+          "type": "*",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "1.2.9",
+        "Node name for S&R": "easy showAnything"
+      },
+      "widgets_values": [
+        "1girl,(big chest:1.4),(standing:1.3),(denim_shorts:1.2),(big long legs:1.2),light leg,(black sweater:1.5),1 orange cat,purple eyes,flower sea,best quality, highres, photography, realistic, highly detailed, beautiful details, xiju,1 girl,solo,black hair,hair ornament,makeup,long hair,headdress,An imperceptible smile,chinese clothes,(red clothes:1.4),gloss of clothes, (golden decorative lines:1.2), luxury clothes, complex decoration, exquisite decorative patterns,cowboy shot, sleeveless,off shoulder,large breasts, very short skirt, beautiful waistline,eyeshadow, outdoors, Classical gardens in Jiangnan,pool,flowers, Chinese garden"
+      ]
+    }
+  ],
+  "links": [
+    [
+      45,
+      26,
+      0,
+      25,
+      0,
+      "STRING"
+    ],
+    [
+      46,
+      25,
+      0,
+      28,
+      0,
+      "*"
+    ],
+    [
+      47,
+      31,
+      0,
+      25,
+      1,
+      "STRING"
+    ]
+  ],
+  "groups": [],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 1.283902517749503,
+      "offset": [
+        -549.4230322536022,
+        135.7616732105706
+      ]
+    },
+    "frontendVersion": "1.25.10"
+  },
+  "version": 0.4
+}

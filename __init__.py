@@ -1,6 +1,4 @@
 from .AC_FUNV2 import *
-import os
-import shutil
 from .Second_Season import *
 from .AC_Makemodel import *
 from .Negative import *
@@ -45,7 +43,5 @@ NODE_CLASS_MAPPINGS = {
     
 
 }
-
-NODE_DISPLAY_NAME_MAPPINGS = {
-
-}
+WEB_DIRECTORY = "./javascript"
+__all__ = ["NODE_CLASS_MAPPINGS", "WEB_DIRECTORY"]
