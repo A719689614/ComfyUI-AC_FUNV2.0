@@ -1,0 +1,15 @@
+[project]
+name = "ComfyUI-By-AC_FUNV2.0"
+description = "For ComfyUI Prompt_Tools "
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["torch==2.11.0", "Requests==2.33.1"]
+
+[project.urls]
+Repository = "https://github.com/A719689614/ComfyUI-AC_FUNV2.0"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "acheng"
+DisplayName = "ComfyUI-By-AC_FUNV2.0"
+Icon = "https://avatars.githubusercontent.com/u/142242136?v=4"
