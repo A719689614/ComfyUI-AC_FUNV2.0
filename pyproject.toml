@@ -1,6 +1,6 @@
 [project]
 name = "ComfyUI-By-AC_FUNV2.0"
-description = "For ComfyUI Prompt_Tools "
+description = "For ComfyUI Prompt_Tools [小白入门款提示词工具]"
 version = "1.0.0"
 license = {file = "LICENSE"}
 dependencies = ["torch==2.11.0", "Requests==2.33.1"]
