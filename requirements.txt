@@ -1,5 +1,2 @@
-glob
-nodes
-pygame
-os
-shutil
+Requests==2.33.1
+torch==2.11.0
