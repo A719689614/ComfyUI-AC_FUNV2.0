@@ -27,6 +27,8 @@ class TextTranslate(AC_CATEGORY):
         return md5(s.encode(encoding)).hexdigest()
 
     def text_translation(self, text,translate_from,translate_to, APIID='20250517002359356', APIKEY="HMAxM6QBzWFHG4sAzuOQ"):
+        if APIID == '' or APIKEY == '':
+            return ( text, )
         query = text
         appid = APIID
         appkey = APIKEY
@@ -44,7 +46,7 @@ class TextTranslate(AC_CATEGORY):
             result = r.json()
             result = result['trans_result'][0]['dst']
         except:
-            result = 'Error'
+            result = text
         
         return (result,)
 
