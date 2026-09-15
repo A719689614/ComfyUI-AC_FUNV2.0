@@ -318,6 +318,25 @@ class Solution_list(AC_CATEGORY):
         return (height,width,new_str) 
 
 # ==============================================================
+# 词汇分割
+class Prompt_Split(AC_CATEGORY):
+    @classmethod
+    def INPUT_TYPES(s):
+        return{"required":{
+               "Prompt":("STRING",{ "forceInput": True}),
+               "Split":("STRING",{ "default":","}),
+               }
+               }
+    RETURN_TYPES = ('STRING',)
+    
+    # 返回节点命名
+    RETURN_NAMES = ('STRING',)
+    FUNCTION = "prompt_split" 
+
+    def prompt_split(self,Prompt,Split):
+        list = Prompt.split(Split)
+        return (list,)
+
 if __name__ == "__main__":
     pass
 
