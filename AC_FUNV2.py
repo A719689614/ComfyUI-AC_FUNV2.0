@@ -1,6 +1,7 @@
 import os
 from torch import Tensor
 from .AC_CATAGORY import AC_CATEGORY
+
 # 定义全局变量
 Maxresolution = 99999999999999999
 
@@ -336,6 +337,31 @@ class Prompt_Split(AC_CATEGORY):
     def prompt_split(self,Prompt,Split):
         list = Prompt.split(Split)
         return (list,)
+    
+# 提示词队列 ==================================================
+class Prompt_Queue(AC_CATEGORY):
+    @classmethod
+    def INPUT_TYPES(s):
+        return{"required":{
+               "Prompt1":("STRING",{ "default": "", "multiline": True}),
+               "Prompt2":("STRING",{ "default": "", "multiline": True}),
+               "Prompt3":("STRING",{ "default": "", "multiline": True}),
+               "Prompt4":("STRING",{ "default": "", "multiline": True}),
+               "Prompt5":("STRING",{ "default": "", "multiline": True}),
+               "Prompt6":("STRING",{ "default": "", "multiline": True}),
+               }
+               }
+    RETURN_TYPES = ('STRING',)
+    
+    # 返回节点命名
+    RETURN_NAMES = ('STRING',)
+    OUTPUT_IS_LIST= (True,)
+    FUNCTION = "prompt_queue" 
+
+    def prompt_queue(self,Prompt1,Prompt2,Prompt3,Prompt4,Prompt5,Prompt6):
+        list = [Prompt1,Prompt2,Prompt3,Prompt4,Prompt5,Prompt6]
+        return (list,)
+
 
 if __name__ == "__main__":
     pass

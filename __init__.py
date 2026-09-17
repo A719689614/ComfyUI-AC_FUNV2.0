@@ -29,6 +29,7 @@ NODE_CLASS_MAPPINGS = {
     "AC_Switch开关": Switch,
     "AC_词汇合并": AC_Join,
     "AC_词汇分割": Prompt_Split,
+    "AC_提示词队列": Prompt_Queue,
     "AC_百度翻译": TextTranslate,
     "AC_DESIGN_AERA":AC_FUN_Design,
     "AC_Negative_prompt提示词":AC_FUN_Negative_Prompt,
